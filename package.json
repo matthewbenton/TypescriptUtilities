@@ -1,0 +1,19 @@
+{
+  "name": "typescript.utilities",
+  "version": "1.0.0",
+  "description": "Utilities that make working in Typescript and Javascript more enjoyable.",
+  "main": "Utilities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewbenton/TypescriptUtilities.git"
+  },
+  "author": "Matt Hearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewbenton/TypescriptUtilities/issues"
+  },
+  "homepage": "https://github.com/matthewbenton/TypescriptUtilities#readme"
+}

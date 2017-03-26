@@ -1,12 +1,5 @@
-class StringUtil
-{
-    public static IsNull(str: string)
-    {
-        if(str == undefined || str == null)
-        {
-            return true;
-        }
-
-        return false;
-    }
-}
+//export var string = StringUtil;
+export var number = NumberUtil;
+export var bool = BoolUtil;
+export var array = ArrayUtil;
+export var dateTIme = DateTimeUtil;
